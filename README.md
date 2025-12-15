@@ -14,13 +14,13 @@
 ---
 
 ### 👯 Open Source Projects
-- 🎙️ **[quran-voice-recogintion](https://github.com/AnasFahmy/quran-voice-recogintion)**  
+- 🎙️ **[Quran_Dataset](https://github.com/AnasFahmy/Quran_Dataset)**  
   Quran speech recognition experiments and pipelines
 
 - 🧠 **[Qiar-at-Whisper](https://github.com/AnasFahmy/Qiar-at-Whisper)**  
   Whisper-based Arabic/Quran recitation recognition
 
-- 📖 **[Qiar-at](https://github.com/AnasFahmy/Qiar-at)**  
+- 📖 **[Qira-at](https://github.com/AnasFahmy/Qira-at)**  
   Quran recitation analysis and related AI tooling
 
 ---
