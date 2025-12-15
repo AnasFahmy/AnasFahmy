@@ -10,12 +10,13 @@
 ### 🔭 Current Focus
 - Working on **Quran Voice Recognition & Recitation AI** [muqri.online](https://muqri.online/)
 - Building Arabic & Quran-focused speech and NLP systems
+- 📫 How to reach me: anas@fahmy.pro or [Linkedin](https://www.linkedin.com/in/anas-ahmed-574289202/)
 
 ---
 
 ### 👯 Open Source Projects
 - 🎙️ **[Quran_Dataset](https://github.com/AnasFahmy/Quran_Dataset)**  
-  Quran speech recognition experiments and pipelines
+  Quran Dataset for SW develpoers
 
 - 🧠 **[Qiar-at-Whisper](https://github.com/AnasFahmy/Qiar-at-Whisper)**  
   Whisper-based Arabic/Quran recitation recognition
