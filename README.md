@@ -10,7 +10,9 @@
 ### 🔭 Current Focus
 - Working on **Quran Voice Recognition & Recitation AI** [muqri.online](https://muqri.online/)
 - Building Arabic & Quran-focused speech and NLP systems
-- 📫 How to reach me: anas@fahmy.pro or [Linkedin](https://www.linkedin.com/in/anas-ahmed-574289202/)
+- Looking for help with my current NLP Project:
+  - quran-voice-recoginition   
+-  How to reach me: anas@fahmy.pro or [Linkedin](https://www.linkedin.com/in/anas-ahmed-574289202/)
 
 ---
 
