@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Current Focus
-- Working on **Quran Voice Recognition & Recitation AI**
+- Working on **Quran Voice Recognition & Recitation AI** [muqri.online](https://muqri.online/)
 - Building Arabic & Quran-focused speech and NLP systems
 
 ---
